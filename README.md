@@ -1,4 +1,4 @@
-![image](https://github.com/IfeOluwaEmma123/IfeOluwaEmma123/assets/78968110/8e8dc25f-0eb7-4659-8705-a6ec0ff09564)<h1 align="center">Hi 👋, I'm IfeOluwa Ayoola</h1>
+<h1 align="center">Hi 👋, I'm IfeOluwa Ayoola</h1>
 <h3 align="center">A passionate Data Analyst from Nigeria</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/IfeOluwaEmma123](https://github.com/IfeOluwaEmma123)
