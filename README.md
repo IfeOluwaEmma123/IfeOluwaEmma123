@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm IfeOluwa Ayoola</h1>
-<h3 align="center">A passionate Data Analyst from Nigeria</h3>
+<h3 align="center">A passionate DATA ANALYST from Nigeria</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/IfeOluwaEmma123](https://github.com/IfeOluwaEmma123)
 
