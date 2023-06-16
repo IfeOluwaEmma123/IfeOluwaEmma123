@@ -45,7 +45,7 @@
     <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Microsoft Excel" width="40" height="40"/>
   </a>
   <a href="https://www.ibm.com/products/spss-statistics" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/IBM_SPSS_Statistics_Logo.svg" alt="SPSS" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEoeA_rX0LcSE5rpafDc1SR7jbeD37gpaucn4yPd9t&s" alt="SPSS" width="40" height="40"/>
   </a>
   <a href="https://www.sas.com/en_us/home.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg" alt="SAS" width="40" height="40"/>
