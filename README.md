@@ -36,13 +36,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="Power BI" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-smxq5g2ybRzn216_R7agzXEkCxm1iqvf1qIQWQ4&s" alt="Power BI" width="40" height="40"/>
   </a>
   <a href="https://www.tableau.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpI8weaZM7nXZrIjMvrxWpBbNmLzWXEERivRdUBbs&s" alt="Tableau" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Microsoft Excel" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP0jSlNdb_yBVKwrfTKcZGtsIkPHR7kkw3VC9iTjk&s" alt="Microsoft Excel" width="40" height="40"/>
   </a>
   <a href="https://www.ibm.com/products/spss-statistics" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEoeA_rX0LcSE5rpafDc1SR7jbeD37gpaucn4yPd9t&s" alt="SPSS" width="40" height="40"/>
