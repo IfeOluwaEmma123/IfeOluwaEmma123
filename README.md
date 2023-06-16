@@ -51,7 +51,7 @@
     <img src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg" alt="SAS" width="40" height="40"/>
   </a>
   <a href="https://www.eviews.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/EViews_Logo.svg" alt="EViews" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB8A_Yz1jaPw-zo90xvndjeKq6-giAkVoBzpZBkUFu4Q&s" alt="EViews" width="40" height="40"/>
   </a>
   <a href="https://www.sage.com/en-us/products/sage-300-erp" target="_blank" rel="noreferrer">
     <img src="https://www.realisable.co.uk/wp-content/themes/realisable/images/sage-300-logo.png" alt="Sage 300 ERP" width="40" height="40"/>
